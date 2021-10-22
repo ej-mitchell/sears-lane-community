@@ -5,6 +5,7 @@ body {
 
 span {
   background-color: tomato;
+  opacity: 0.9;
 }
 
 .title {
@@ -12,15 +13,30 @@ span {
 }
 
 .body-text {
-  margin: 0px 150px;
+  margin: 50px 150px;
+}
+
+.backlink {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  width: 10%;
+  text-align: center;
 }
 
 .resources {
-  padding: 20px;
+  padding: 5px 20px;
   color: white;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.75);
   width: 50%;
   margin: auto;
+}
+
+.press-release {
+  margin: 50px 200px;
+}
+
+li {
+  margin: 15px 0px;
 }
 
 a {
