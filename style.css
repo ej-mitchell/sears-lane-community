@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+span {
+  background-color: tomato;
+}
+
+.title {
+  text-align: center;
+}
+
+.body-text {
+  margin: 0px 150px;
+}
+
+.resources {
+  padding: 20px;
+  color: white;
+  background-color: black;
+  width: 50%;
+  margin: auto;
+}
+
+a {
+  color: tomato;
+}
+
+a:hover {
+  color: yellow;
+}
+
